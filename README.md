@@ -5,7 +5,7 @@
 
 این مخزن حاوی مثال‌هایی است از رایج‌ترین الگوریتم‌ها و ساختارهای‌داده‌ای مبتنی بر جاوااسکریپت
 
-هر الگوریتم و ساختمان داده راهنمای جداگانه خود را دارد همچنین با توضیحات بیشتر و لینک‌هایی برای مطالعه بیشتر همراه‌است (بعلاوه لینک به ویدئوهای یوتیوب).
+هر الگوریتم و ساختمان داده راهنمای جداگانه خود را دارد و با توضیحات و لینک‌هایی برای مطالعه بیشتر همراه شده‌است (بعلاوه لینک‌هایی به ویدئوهای یوتیوب).
 
 _این مطالب را در زبان‌های زیر بخوانید:_
 [_简体中文_](README.zh-CN.md),
@@ -16,19 +16,15 @@ _این مطالب را در زبان‌های زیر بخوانید:_
 [_Français_](README.fr-FR.md),
 [_Español_](README.es-ES.md),
 [_Português_](README.pt-BR.md)
-*☝ توجه داشته‌باشید که این پروژه بمنظور استفاده‌های آموزشی و تحقیقاتی اختصاص یافته و برای تولید محصول ارائه نشده‌است.*
+*☝ توجه داشته‌باشید که این پروژه بمنظور استفاده‌های آموزشی و تحقیقاتی اختصاص یافته و برای استفاده تجاری و تولید محصول ارائه نشده‌است.*
 
 ## ساختار داده‌ها
 
-یک ساختار داده‌ای شیوه خاصی از سازماندهی و ذخیره‌سازی داده در کامپیوتر است و از اینرو قابل بطور مؤثری قابل دسترسی و تغییر است. دقیق‌تر اینکه، یک ساختار داده‌ای 
-A data structure is a particular way of organizing and storing data in a computer so that it can
-be accessed and modified efficiently. More precisely, a data structure is a collection of data
-values, the relationships among them, and the functions or operations that can be applied to
-the data.
+یک ساختار داده‌ای شیوه خاصی از سازماندهی و ذخیره‌سازی داده در کامپیوتر است و از اینرو بطور مؤثری قابل دسترسی و تغییر است.   دقیق‌تر اینکه، یک ساختار داده‌ای مجموعه‌ای از مقادیر داده، ارتباط میان آنها، و توابع و عملگرهایی است که می‌توانند بر داده‌ها اعمال شوند.
 
-`B` - Beginner, `A` - Advanced
+`B` - مبتدی, `A` - پیشرفته
 
-* `B` [Linked List](src/data-structures/linked-list)
+* `B` لیست‌های مرتبط [Linked List](src/data-structures/linked-list)
 * `B` [Doubly Linked List](src/data-structures/doubly-linked-list)
 * `B` [Queue](src/data-structures/queue)
 * `B` [Stack](src/data-structures/stack)

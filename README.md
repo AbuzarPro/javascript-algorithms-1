@@ -5,11 +5,9 @@
 
 این مخزن حاوی مثال‌هایی است از رایج‌ترین الگوریتم‌ها و ساختارهای‌داده‌ای مبتنی بر جاوااسکریپت
 
-Each algorithm and data structure has its own separate README
-with related explanations and links for further reading (including ones
-to YouTube videos).
+هر الگوریتم و ساختمان داده راهنمای جداگانه خود را دارد همچنین با توضیحات بیشتر و لینک‌هایی برای مطالعه بیشتر همراه‌است (بعلاوه لینک به ویدئوهای یوتیوب).
 
-_Read this in other languages:_
+_این مطالب را در زبان‌های زیر بخوانید:_
 [_简体中文_](README.zh-CN.md),
 [_繁體中文_](README.zh-TW.md),
 [_한국어_](README.ko-KR.md),
@@ -18,12 +16,11 @@ _Read this in other languages:_
 [_Français_](README.fr-FR.md),
 [_Español_](README.es-ES.md),
 [_Português_](README.pt-BR.md)
+*☝ توجه داشته‌باشید که این پروژه بمنظور استفاده‌های آموزشی و تحقیقاتی اختصاص یافته و برای تولید محصول ارائه نشده‌است.*
 
-*☝ Note that this project is meant to be used for learning and researching purposes 
-only and it is **not** meant to be used for production.*
+## ساختار داده‌ها
 
-## Data Structures
-
+یک ساختار داده‌ای شیوه خاصی از سازماندهی و ذخیره‌سازی داده در کامپیوتر است و از اینرو قابل بطور مؤثری قابل دسترسی و تغییر است. دقیق‌تر اینکه، یک ساختار داده‌ای 
 A data structure is a particular way of organizing and storing data in a computer so that it can
 be accessed and modified efficiently. More precisely, a data structure is a collection of data
 values, the relationships among them, and the functions or operations that can be applied to

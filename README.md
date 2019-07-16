@@ -1,10 +1,9 @@
-# الگوریتم‌ها و ساختمان داده‌های جاوا‌اسکریپت
+# الگوریتم‌ها و ساختارهای داده‌ای جاوا‌اسکریپت
 
 [![Build Status](https://travis-ci.org/trekhleb/javascript-algorithms.svg?branch=master)](https://travis-ci.org/trekhleb/javascript-algorithms)
 [![codecov](https://codecov.io/gh/trekhleb/javascript-algorithms/branch/master/graph/badge.svg)](https://codecov.io/gh/trekhleb/javascript-algorithms)
 
-This repository contains JavaScript based examples of many
-popular algorithms and data structures.
+این مخزن حاوی مثال‌هایی است از رایج‌ترین الگوریتم‌ها و ساختارهای‌داده‌ای مبتنی بر جاوااسکریپت
 
 Each algorithm and data structure has its own separate README
 with related explanations and links for further reading (including ones
